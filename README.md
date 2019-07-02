@@ -1,4 +1,4 @@
 # Swep
 
 German:
-Implementierung von einem Warenwirtschaftssystem. Just 4 Fun
+Implementierung von einem CBD Warenwirtschaftssystem. Just 4 Fun
